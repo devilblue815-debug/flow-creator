@@ -1,0 +1,13 @@
+"name": "Flow Creator",
+"short_name": "FlowCreator",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#1a73e8",
+"orientation": "portrait",
+"icons": [
+{
+"src": "https://via.placeholder.com/512/1a73e8/ffffff?text=Flow",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
